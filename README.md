@@ -31,8 +31,8 @@ There will be display of the first pokemon (by ID) and its information and some 
   - "Edit": Saves the changes
   - "Cancel": Delets the changes pokemon
 - "Delete": the current pokemon is deleted
-- "ID Field": an ID can be entered
 - "Find": Finds a pokemon by specified ID in the "ID Field"
+- "ID Field": an ID can be entered
 - "List by Type": Buttons "New", "Edit", "Delete", "ID Field", "Find", "List by Type", "Select Box" are no longer visible. Displays all the pokemon of the selected type (from "Select Box") in a list
 - "Select Box": A list of all the types of pokemon
 
