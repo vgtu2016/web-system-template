@@ -1,7 +1,7 @@
 # Martyno Kezio Pokemon Emporium
 
 ## Description
-This Emporium is a way of easily giving information about pokemon of the first generation
+This Emporium is a way of easily accessing and modifying information about pokemon of the first generation
 
 ## Pokemon
 Atributes:
