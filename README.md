@@ -16,11 +16,11 @@ Atributes:
 
 ## API
 Possibilities:
-- Get a pokemon by its ID
-- Get a pokemon list by their type
-- Delete a pokemon
-- Edit a pokemon
-- Crate a new pokemon
+- Get a pokemon by its ID. Method: Get, /api/pokemon/:id
+- Get a pokemon list by their type. Method: Get, /api/pokemon/:type
+- Delete a pokemon. Method: Delete, /api/pokemon/:id
+- Edit a pokemon. Method: Post, /api/pokemon/:id
+- Crate a new pokemon. Method: Put, /api/pokemon/
 
 ## UI
 There will be display of the first pokemon (by ID) and its information and some buttons, ID field and a select box at the top:
