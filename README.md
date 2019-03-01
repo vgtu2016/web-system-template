@@ -1,7 +1,7 @@
-# Martyno Kezio Pokemon Emporium
+# Martyno Kezio Pokemon Infomration Center Extravaganza
 
 ## Description
-This Emporium is a way of easily accessing and modifying information about pokemon of the first generation
+This Infomration Center Extravaganza is a way of easily accessing and modifying information about pokemon of the first generation
 
 ## Pokemon
 Atributes:
