@@ -42,4 +42,4 @@ There will be two windows : main, second
     - Edit: Opens second window with the pokemon in edit mode
     - Delete: Deletes the pokemon
 
- - The layout: https://wireframe.cc/HgUJp5
+The layout: https://wireframe.cc/HgUJp5
