@@ -24,12 +24,12 @@ Possibilities:
 
 ## UI
 There will be display of the first pokemon (by ID) and its information and some buttons and a select box at the top:
-"New": Buttons "Edit", "Delete", "List by Type", "Select Box" are no longer visible. A new pokemon is created with all the fields empty and the user will be able to enter the info and press one of two buttons:
-  "Create": Vadilate the creation
-  "Cancel": Delets the created pokemon
-"Edit": Buttons "New", "Delete", "List by Type", "Select Box" are no longer visible. All the fields are editable and the user will be able to enter the info and press one of two buttons:
-  "Edit": Saves the changes
-  "Cancel": Delets the changes pokemon
-"Delete": the current pokemon is deleted
-"List by Type": Buttons "New", "Edit", "Delete", "List by Type", "Select Box" are no longer visible. Displays all the pokemon of the selected type (from "Select Box") in a list
-"Select Box": A list of all the types of pokemon
+- "New": Buttons "Edit", "Delete", "List by Type", "Select Box" are no longer visible. A new pokemon is created with all the fields empty and the user will be able to enter the info and press one of two buttons:
+  - "Create": Vadilate the creation
+  - "Cancel": Delets the created pokemon
+- "Edit": Buttons "New", "Delete", "List by Type", "Select Box" are no longer visible. All the fields are editable and the user will be able to enter the info and press one of two buttons:
+  - "Edit": Saves the changes
+  - "Cancel": Delets the changes pokemon
+- "Delete": the current pokemon is deleted
+- "List by Type": Buttons "New", "Edit", "Delete", "List by Type", "Select Box" are no longer visible. Displays all the pokemon of the selected type (from "Select Box") in a list
+- "Select Box": A list of all the types of pokemon
