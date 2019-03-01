@@ -7,12 +7,12 @@ This Emporium is a way of easily giving information about pokemon of the first g
 Atributes:
 - ID : Pokemon ID, mandatory (number, 0<ID<152)
 - Name : Pokemon name, mandatory (String, <20 char)
-- Type : Pokemon type, mandatory ()
-- Type2 : Pokemon secondary type ()
-- Atribute : Pokemon special abillity ()
-- Size : Pokemon size in cm ()
-- Weight : Pokemon weight ()
-- Description : Pokemon description ()
+- Type : Pokemon type, mandatory (Array, size = 18)
+- Type2 : Pokemon secondary type (Array, size = 18)
+- Atribute : Pokemon special abillity (String, <50 char)
+- Size : Pokemon size in cm (number, 0<Size<900)
+- Weight : Pokemon weight in kg (number, 0<Weight<500)
+- Description : Pokemon description (String, <100)
 
 ## API
 Possibilities:
