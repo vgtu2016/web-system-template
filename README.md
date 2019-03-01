@@ -26,20 +26,20 @@ Possibilities:
 There will be two windows : main, second
 
 - Second:
- - A single pokemons data
- - Possible actions:
-  - New: Creates a new pokemon with all fields empty (except ID) and shows it in the window
-  - Delete: Deletes the pokemon and opns the Main window
-  - Cancel: Does not save the changes and opens Main window
-  - Create/Edit: is named depending on the window mode (Edit, Create). Saves the changes on the pokemon
+  - A single pokemons data
+  - Possible actions:
+    - New: Creates a new pokemon with all fields empty (except ID) and shows it in the window
+    - Delete: Deletes the pokemon and opns the Main window
+    - Cancel: Does not save the changes and opens Main window
+    - Create/Edit: is named depending on the window mode (Edit, Create). Saves the changes on the pokemon
 
 - Main:
- - A list of all pokemon, visible data: ID, Name, Type, Type2. 
- - Possible actions: 
-  - New: opens Second window
-  - Find: Opens pokemon second window if the ID is found (from the text box)
-  - Type: Filters the list by selected type
-  - Edit: Opens second window with the pokemon in edit mode
-  - Delete: Deletes the pokemon
+  - A list of all pokemon, visible data: ID, Name, Type, Type2. 
+  - Possible actions: 
+    - New: opens Second window
+    - Find: Opens pokemon second window if the ID is found (from the text box)
+    - Type: Filters the list by selected type
+    - Edit: Opens second window with the pokemon in edit mode
+    - Delete: Deletes the pokemon
 
  - The layout: https://wireframe.cc/HgUJp5
