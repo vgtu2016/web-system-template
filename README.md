@@ -23,17 +23,22 @@ Possibilities:
 - Create a new pokemon. Method: Post, /api/pokemon/
 
 ## UI
-There will be display of the first pokemon (by ID) and its information and some buttons, ID field and a select box at the top:
-- "New": Buttons "Edit", "Delete", "ID Field", "Find", "List by Type", "Select Box" are no longer visible. A new pokemon is created with all the fields empty and the user will be able to enter the info and press one of two buttons:
-  - "Create": Vadilate the creation
-  - "Cancel": Delets the created pokemon
-- "Edit": Buttons "New", "Delete", "ID Field", "Find", "List by Type", "Select Box" are no longer visible. All the fields are editable and the user will be able to enter the info and press one of two buttons:
-  - "Edit": Saves the changes
-  - "Cancel": Delets the changes pokemon
-- "Delete": the current pokemon is deleted
-- "Find": Finds a pokemon by specified ID in the "ID Field"
-- "ID Field": an ID can be entered
-- "List by Type": Buttons "New", "Edit", "Delete", "ID Field", "Find", "List by Type", "Select Box" are no longer visible. Displays all the pokemon of the selected type (from "Select Box") in a list
-- "Select Box": A list of all the types of pokemon
+There will be two windows : main, second
 
+Second:
+A single pokemons data
+Possible actions:
+New: Creates a new pokemon with all fields empty (except ID) and shows it in the window
+Delete: Deletes the pokemon and opns the Main window
+Cancel: Does not save the changes and opens Main window
+Create/Edit: is named depending on the window mode (Edit, Create). Saves the changes on the pokemon
+
+Main:
+A list of all pokemon, visible data: ID, Name, Type, Type2. 
+Possible actions: 
+New: opens Second window
+Find: Opens pokemon second window if the ID is found (from the text box)
+Type: Filters the list by selected type
+Edit: Opens second window with the pokemon in edit mode
+Delete: Deletes the pokemon
 https://wireframe.cc/HgUJp5
