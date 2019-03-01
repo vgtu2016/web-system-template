@@ -1,7 +1,7 @@
-# Martyno Kezio Pokemon Infomration Center Extravaganza
+# Martyno Kezio Pokemon Guru
 
 ## Description
-This Infomration Center Extravaganza is a way of easily accessing and modifying information about pokemon of the first generation
+This Guru is a way of easily accessing and modifying information about pokemon of the first generation
 
 ## Pokemon
 Atributes:
