@@ -3,7 +3,7 @@
 ## Description
 This Emporium is a way of easily giving information about pokemon of the first generation
 
-## Pokemonas
+## Pokemon
 Atributes:
 - ID : Pokemon ID, mandatory (number, 0<ID<152)
 - Name : Pokemon name, mandatory (String, <20 char)
